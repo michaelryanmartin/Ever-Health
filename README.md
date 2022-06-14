@@ -2,7 +2,7 @@
 
 This is a platform for exchanging experiences and information about non-medical treatment packaged in a free mobile application to help improve the health status of the Indonesian people
 
-## Fitur
+## Featured
 
 ### Share Your Experience
 Users can upload their experience stories, then the team will verify their veracity and other users can read the stories
