@@ -1,9 +1,14 @@
 # Ever-Health
-Merupakan sebuah platform pertukaran pengalaman dan informasi mengenai pengobatan di luar medis yang dikemas dalam sebuah aplikasi mobile gratis untuk membantu meningkatkan derajat kesehatan masyarakat Indonesia
+
+This is a platform for exchanging experiences and information about non-medical treatment packaged in a free mobile application to help improve the health status of the Indonesian people
+
 ## Fitur
+
 ### Share Your Experience
-Pengguna dapat mengunggah cerita pengalamannya, kemudian  tim akan memverifikasi kebenarannya dan pengguna lain dapat membaca cerita tersebut
+Users can upload their experience stories, then the team will verify their veracity and other users can read the stories
+
 ### Disease Information
-Pengguna dapat melihat dan membaca berbagai macam informasi mengenai penyakit mulai dari penyebab, gejala, dan pengobatannya, baik secara medis maupun non-medis
+Users can view and read various kinds of information about diseases ranging from causes, symptoms, and treatment, both medical and non-medical
+
 ### Non-medical medicine information
-Pengguna dapat melihat dan mengetahui berbagai macam hal yang dapat menjadi obat di luar medis dengan informasi khasiat dan manfaatnya bagi suatu penyakit
+Users can see and know various things that can be non-medical drugs with information on the efficacy and benefits for a disease
